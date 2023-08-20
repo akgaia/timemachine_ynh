@@ -27,6 +27,11 @@
     "arguments": {
         "install": [
             {
+                "name": "datadir",
+                "type": "string",
+                "help": "Location for the backup directory"
+            },
+            {
                 "name": "admin",
                 "type": "user"
             },
