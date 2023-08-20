@@ -28,7 +28,7 @@
         "install": [
             {
                 "name": "datadir",
-                "type": "string",
+                "type": "path",
                 "help": "Location for the backup directory"
             },
             {
